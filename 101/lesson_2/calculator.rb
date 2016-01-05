@@ -7,12 +7,12 @@
 
 Kernel.puts("Welcome to calculator!")
 Kernel.puts("What is the first number?")
-num1 = gets().chomp()
+num1 = Kernel.gets().chomp()
 Kernel.puts("What is your second number?")
-num2 = gets().chomp()
+num2 = Kernel.gets().chomp()
 Kernel.puts("What type of operation 1) add 2) subtract 3) multiplication 
 4) division")
-operation = gets().chomp()
+operation = Kernel.gets().chomp()
 
 if operation == '1'
   result = num1.to_i() + num2.to_i()
