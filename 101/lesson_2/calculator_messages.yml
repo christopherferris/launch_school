@@ -1,0 +1,20 @@
+# calculator_messages.yml
+
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+  ask_first_number: "What's the first number?"
+  valid_number: "Hmm... that doesn't look like a valid number"
+  ask_second_number: "What's the second number?"
+  valid_operator: "Must choose 1, 2, 3 or 4"
+  calculate_again: "Do you want to perform another calculation? (Y to calculate again)"
+  end_message: "Thank you for using the calculator. Good bye!"
+es:
+  welcome: "Bienvenido a la calculadora! Entre su nombre:"
+  valid_name: "Asegúrese de entrar un nombre válido."
+  ask_first_number: "¿Cuál es el primer número ?"
+  valid_number: "Hmm ... que no se ve como un número válido"
+  ask_second_number: "¿Cuál es el segundo número?"
+  valid_operator: "Debe elegir 1 , 2 , 3 o 4"
+  calculate_again: "¿Quieres realizar otro cálculo ? (Y a calcular de nuevo)"
+  end_message: "Gracias por usar la calculadora usted. ¡Adiós!"
