@@ -1,5 +1,3 @@
-# better_calculator.rb
-
 require 'yaml'
 LANGUAGE = 'en'
 MESSAGES = YAML.load_file('calculator_messages.yml')
